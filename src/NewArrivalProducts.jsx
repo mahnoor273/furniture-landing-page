@@ -1,7 +1,7 @@
 import React from 'react';
 import SofaImage from './images/Wooden sofa.png';
 import ChairImage from './images/Wooden chair.png';
-import StoolImage from './images/Wooden stool.png';
+import StoolImage from './images/Wooden Stool.png';
 
 
 // 🔶 Single Product Card Component
